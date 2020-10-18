@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <p title=" welcome to html"> </p>
+</head>
+<body>
+
+<h1 style="border:2px grey;"> Learn with implementation </h1>
+
+<p>The <abbr title="Hypertext Markup Language">HTML</abbr> was invented by Tim Berners-Lee in 1989.</p>
+<p> Html is used for developing web pages and web applications </p>
+
+<a href="https://practiceboard.com/"> you can practice your code here </a>
+<img src="http://www.webdevelopmenthelp.net/wp-content/uploads/2015/09/HTML55.png"width="500"height="250">
+
+<p style="color:blue;"> Advantagees in learning html: </p>
+<pre>
+Html is easy tp learn and use.
+<hr>
+It is an open source program.
+<hr>
+It is supported in all kinds of browsers.
+</pre>
+<p><em> To know more about HTML contact us and clear your doubts. </em></p>
+<p><mark> Join us to learn more!! </mark></p>
+<h3> To start learning click down </h3>
+<button type="button"> Click Here!</button>
+<h1> Enroll here to learn</h1>
+ <fieldset>
+ <legend>DETAILS:</legend>
+ <label for="fname">First name:</label>
+ <input type="text" id="fname" name="fname"><br><br>
+ <label for="lname">Last name:
+ </label>
+ <input type="text" id="lname" name="lname"><br><br>
+</fieldset>
+<p style="color:red;">THANK YOU!! </p>
+<h5> VISIT US AGAIN </h5>
